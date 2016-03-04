@@ -1,0 +1,28 @@
+name: Valitics
+favicon: null
+layout_spectrum: 0.5355603359639645
+typography_spectrum: 0.2441410762257874
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#17BEBB'
+    - '#2E282A'
+    - '#CD5334'
+    - '#EDB88B'
+    - '#FAD8D6'
+  brandStrength: 0.3309707948938012
+  lightness: 0.7574459558818489
+  saturation: 0.6294868921395391
+  rhythmicContrast: 0.8104026860091835
+purpose: []
